@@ -1,0 +1,1 @@
+React does not render `false` , `null` , `undefined` , or `NaN` is the DOM. These values when used in JSX, will result in nothing being displayed.

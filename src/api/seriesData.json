@@ -1,0 +1,37 @@
+ [
+  {
+    "img_url" : "https://img.youtube.com/vi/Qah9sSIXJqk/maxresdefault.jpg",
+    "name": "KGF Chapter 1",
+    "year": 2018,
+    "rating": 8.2,
+    "trailer": "https://www.youtube.com/watch?v=Qah9sSIXJqk"
+  },
+  {
+    "img_url" : "https://img.youtube.com/vi/NgBoMJy386M/maxresdefault.jpg",
+    "name": "RRR",
+    "year": 2022,
+    "rating": 8.0,
+     "trailer": "https://www.youtube.com/watch?v=NgBoMJy386M"
+  },
+  {
+    "img_url" : "https://img.youtube.com/vi/K0eDlFX9GMc/maxresdefault.jpg",
+    "name": "3 Idiots",
+    "year": 2009,
+    "rating": 8.4,
+    "trailer": "https://www.youtube.com/watch?v=K0eDlFX9GMc"
+  },
+  {
+    "img_url" : "https://img.youtube.com/vi/Q1NKMPhP8PY/maxresdefault.jpg",
+    "name": "Bahubali: The Beginning",
+    "year": 2015,
+    "rating": 8.0,
+     "trailer": "https://www.youtube.com/watch?v=Q1NKMPhP8PY"
+  },
+  {
+    "img_url" : "https://img.youtube.com/vi/Q1NKMPhP8PY/maxresdefault.jpg",
+    "name": "Pushpa: The Rise",
+    "year": 2021,
+    "rating": 7.6,
+    "trailer": "https://www.youtube.com/watch?v=Q1NKMPhP8PY"
+  }
+]
