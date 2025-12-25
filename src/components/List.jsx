@@ -7,7 +7,7 @@ export const ListData = ({ data }) => {
         <img src={img_url} alt=""  />
         </div>
         <div className="card-content">
-          <h1>Name :{name}</h1>
+          <h1>Namet :{name}</h1>
           <p>Year :{year}</p>
           <p>Rating : {rating}</p>
           <a href={trailer} target="_blank">
